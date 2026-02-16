@@ -1,1 +1,0 @@
-# emergency_resource_dispatch_analyzer
